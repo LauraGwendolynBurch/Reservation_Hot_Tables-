@@ -64,6 +64,13 @@ Clone repo | Push changes | Create Pull request
 University of Washington Bootcamp TAs and Instructor
 
 ## Questions
-GitHub Username: [](https://github.com/)
+GitHub Username: [Gavin867](https://github.com/Gavin867)
 
-Email: <>
+GitHub Username: [supercodingninja](https://github.com/supercodingninja)
+
+GitHub Username: [merikettapearl212](https://github.com/merikettapearl212)
+
+GitHub Username: [ilya-libershteyn](https://github.com/ilya-libershteyn)
+
+GitHub Username: [LauraGwendolynBurch](https://github.com/LauraGwendolynBurch)
+
